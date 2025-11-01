@@ -1,0 +1,2 @@
+++ Tool used to generate phishing campaings
+--- URL: https://github.com/cyberboyplas/WhPhisher
